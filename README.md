@@ -74,7 +74,7 @@
     </style>
   </head>
   <body id="">
-<center><h1><font face="Jolly Lodger" color="red" size="35">Happy Birthday <font color="red">Kawser</font></center>
+<center><h1><font face="Jolly Lodger" color="red" size="35">Happy Birthday <font color="red">Pabitry</font></center>
     	<center><img src="http://upir.ir/images/7wz3n034wjmidksvkjjo.png" height='275px' width='275px'></font></center><center>
 </font></font>
 <br>
@@ -84,7 +84,7 @@
 <br>
 <font size="3" color="red">So I hacked the website and greeted her<font size="5" color="white"></font></font>
 <br>
-<font size="3" color="silver">And  Fix Your Website Vulnerability also<font size="5" color="white"></font></fonthttp://upir.ir/images/7wz3n034wjmidksvkjjo.png
+<font size="3" color="silver">And  Fix Your Website Vulnerability also<font size="5" color="white"></font></font>
 <br>
 <center><font color="red" size="4">And Next Time Be Careful </font></font>
 <br>
